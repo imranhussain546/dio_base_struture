@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 
 // API server URL
-const String productionServerHostName = 'https://demo.colormoon.in/weebus';
-const String devServerHostName = 'https://demo.colormoon.in/weebus';
+const String productionServerHostName = 'https://jsjs.com/sss';
+const String devServerHostName = 'https://jsjs.com/sss';
 
 //host name
 const String hostName =
